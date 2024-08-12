@@ -1,8 +1,8 @@
 # EmailApplication-JAvA
 
-Developed a console application in Java for managing new customer bank account requests.
-Implemented functionalities such as reading customer data from CSV files, creating unique account numbers,
-managing savings and checking accounts, handling deposits, withdrawals, transfers, and displaying account
-information.
-Ensured security through safety deposit box assignments for savings accounts and dynamic account number
-generation.
+Designed a Java application for IT Support Administrator Specialists to facilitate the creation of email accounts for new hires.
+Generated email addresses in the format "firstname.lastname@department.company.com" based on user input and department
+determination.
+Implemented RANDOM PASSWORD GENERATION, methods to set mailbox capacity and define alternate email addresses, and get
+methods to display employee information.
+
